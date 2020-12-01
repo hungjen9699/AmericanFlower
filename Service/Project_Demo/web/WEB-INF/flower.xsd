@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xsd:schema version="1.0"
+            xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://xml.netbeans.org/schema/flowers"
+            xmlns="http://xml.netbeans.org/schema/flowers"
+            elementFormDefault="qualified">
+    <xsd:element name="flower" type="Flower"/>
+    <xsd:complexType name="Flower">
+        <xsd:sequence>
+            <xsd:element name="flowerID" type="xsd:int"/>
+            <xsd:element name="flowerCategoryID" type="xsd:int"/>
+            <xsd:element name="flowerName" type="xsd:string"/>
+            <xsd:element name="imgLink" type="xsd:string"/>
+            <xsd:element name="season" type="xsd:string"/>
+            <xsd:element name="germination" type="xsd:int"/>
+            <xsd:element name="maturity" type="xsd:int"/>
+            <xsd:element name="temparature" type="xsd:float"/>
+            <xsd:element name="link" type="xsd:string"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:schema>

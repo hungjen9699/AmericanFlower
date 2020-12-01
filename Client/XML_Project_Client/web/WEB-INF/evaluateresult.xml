@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EvaluateResult>
+    <Flower>
+        <flowerID>249</flowerID>
+        <flowerName>Sorrel</flowerName>
+        <imgLink>https://www.theseedcollection.com.au/assets/full/C3-02.jpg?20200707030517</imgLink>
+        <season>Spring and autumn</season>
+        <germination>14</germination>
+        <maturity>60</maturity>
+        <temparature>22.0</temparature>
+        <link>https://www.theseedcollection.com.au/Sorrel</link>
+        <flowerCategory>
+            <flowerCategoryID>155</flowerCategoryID>
+            <flowerCategoryName>Sorrel</flowerCategoryName>
+            <link>https://www.theseedcollection.com.au/herb/sorrel</link>
+        </flowerCategory>
+    </Flower>
+    <TempaState>
+        <stateID>41</stateID>
+        <stateName>North Dakota</stateName>
+        <temparature>5.1</temparature>
+        <season>Spring</season>
+    </TempaState>
+    <Message>everything ok</Message>
+</EvaluateResult>

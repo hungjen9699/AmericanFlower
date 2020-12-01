@@ -1,0 +1,190 @@
+<div class="productdetailswrp">
+    <div class="prdetailshd">
+        <span id="ctl10_spMasp">LB-20T</span>
+        <span>-</span> 
+        <span id="ctl10_spTensp">B&#243;ng đ&#232;n LED bulb 20W E27, &#225;nh s&#225;ng trắng, &#216;80x150mm</span>
+    </div>
+        
+    <div class="prdetailsct">
+        <div class="prdetailsimgwrp">
+            <div class="content">
+                <div id="galleria">
+                            
+                    <a id="ctl10_rptGallery_ctl00_lktoimage" href="../../../PrdGallery/LB-20T768328462.jpg">
+                        <img id="ctl10_rptGallery_ctl00_Image1" src="../../../ThumbG/LB-20T768328462.jpg" alt="img" />
+                    </a>
+                                
+                </div>
+            </div>
+        </div>
+        <div class="prdetailsright">
+            <!--shop-->
+            <div class="prdetailshop">
+                <div class="prdtshoprow">
+                    <div class="prdtshoprow1left">
+                        <span class="spangiabantt">Giá bán:</span>
+                        <span id="ctl10_spGiaban" class="spangiabanview">87.300 VNĐ</span>
+                        <span id="ctl10_spDvt" class="spandvttt">/C&#225;i</span>
+                    </div>
+                    <div class="prdtshoprow1right">
+                        <span class="spansoluongtt">Số lượng</span>
+                        <div class="newslwrp">
+                            <div id="ctl10_updateslsp">
+	
+                                <div class="newsltxtwrp">
+                                    <input name="ctl10$txtSL" type="text" value="1" id="ctl10_txtSL" class="newprdtshoptxtsl" />
+                                    <span id="ctl10_RequiredFieldValidator4" class="requireinput" style="display:none;"></span>
+                                    <span id="ctl10_RegularExpressionValidator2" class="spanvalid" style="display:none;"></span>
+                                </div>
+                                <div class="newslbtwrp">
+                                    <div class="newslbtup">
+                                        <a id="ctl10_lkUpsoluong" href="javascript:__doPostBack(&#39;ctl10$lkUpsoluong&#39;,&#39;&#39;)"></a>
+                                    </div>
+                                    <div class="newslbtdown">
+                                        <a id="ctl10_lkDownsoluong" href="javascript:__doPostBack(&#39;ctl10$lkDownsoluong&#39;,&#39;&#39;)"></a>
+                                    </div>
+                                </div>
+                                        
+                            </div>
+                        </div>
+
+                        <div class="prdtbuybtwrp">
+                            <div class="nprdtbuybtleft">&nbsp;</div>
+                            <div class="prdtbuybtcenter">
+                                <a id="ctl10_lkThemvaodutoan" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl10$lkThemvaodutoan&quot;, &quot;&quot;, true, &quot;validsl&quot;, &quot;&quot;, false, true))">Mua hàng</a>
+                            </div>
+                            <div class="nprdtbuybtright">&nbsp;</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="prdtshoprow">
+                    <div class="prdtshoprow2left">
+                        <span class="spangiatttt">Giá thị trường:</span>
+                        <span id="ctl10_spGiacu" class="spangiattct">158.800 VNĐ</span>
+                        <span id="ctl10_spDvtKm" class="spandvttkm">/C&#225;i</span>
+                        <span class="spangiatktt">Tiết kiệm:</span>
+                        <span id="ctl10_spMuckm" class="spangiatkttvl">45%</span>
+                    </div>
+                    <div class="prdtshoprow2right">
+                        <div class="linkhdmh">
+                            <a id="ctl10_lkhdmh" href="../../../14/huongdanmuahang.aspx">Hướng dẫn mua hàng</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="Div2" class="prdetailwrp">
+                <div class="prdetailctn">
+                    <div class="classtabprdt">
+                        <div id="ctl10_dvMotaSp" class="productdtitem">
+                            <div style="width:100%;padding:4px 0px 0px 0px">
+                                <font color="#003b4f">
+                                    <b>&nbsp; B&oacute;ng đ&egrave;n LED bulb 20W E27, &aacute;nh s&aacute;ng trắng, &Oslash;80x150mm</b>
+                                </font>
+                            </div>
+                            <div style="width:100%;padding:8px 0px 0px 5px">
+                                <img style="vertical-align: middle;" src="https://www.thegioidien.com/fckupload/image/tc_sd.png" alt="" /> 	
+                                <span style="padding-left:5px;">M&atilde; sản phẩm:</span>&nbsp;
+                                <font color="#ff6600">
+                                    <b>LB-20T</b>
+                                </font>
+                            </div>
+                            <div style="width:100%;padding:8px 0px 8px 5px">
+                                <img style="vertical-align: middle;" src="https://www.thegioidien.com/fckupload/image/tc_sd.png" alt="" /> 	
+                                <span style="padding-left:5px;">Thương hiệu:<b>&nbsp;MPE</b></span>
+                            </div>
+                        </div>
+                        <div id="ctl10_dvChitietSp" class="productdtitem">
+                            <table style="font-family: Arial, Helvetica, sans-serif;&#10;  border-collapse: collapse" width="100%">
+                                <tbody>
+                                    <tr>
+                                        <th colspan="2" style="border: 1px dotted #CBCBCB;padding: 8px 0px 8px 5px;text-align: left; background-color: #FFF;color: #000; font-weight:bold">
+                                            <img style="vertical-align: middle;" src="/fckupload/tc_kt.png" width="16" height="16" alt="" />
+                                            <span style="padding-left:5px; vertical-align: middle;">Th&ocirc;ng số kỹ thuật</span>
+                                        </th>
+                                    </tr>
+                                    <tr>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px; width:40%">Loại</td>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px;font-weight:bold; width:60%">Đ&egrave;n LED bulb</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px; width:40%">Đui đ&egrave;n</td>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px;font-weight:bold; width:60%">E27</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px; width:40%">C&ocirc;ng suất</td>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px;font-weight:bold; width:60%">20W</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px; width:40%">Quang th&ocirc;ng</td>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px;font-weight:bold; width:60%">1800 Lm</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px; width:40%">Nhiệt độ m&agrave;u</td>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px;font-weight:bold; width:60%">6000~6500K (&aacute;nh s&aacute;ng trắng)</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px; width:40%">Điện &aacute;p</td>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px;font-weight:bold; width:60%">100~265V AC</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px; width:40%">Độ ho&agrave;n m&agrave;u CRI</td>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px;font-weight:bold; width:60%">Ra80</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px; width:40%">Tuổi thọ</td>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px;font-weight:bold; width:60%">30.000 giờ</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px; width:40%">K&iacute;ch thước (&Oslash;xH)</td>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px;font-weight:bold; width:60%">80x150 mm</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px; width:40%">G&oacute;c chiếu</td>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px;font-weight:bold; width:60%">270<sup>o</sup></td>
+                                    </tr>
+                                    <tr>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px; width:40%">Ti&ecirc;u chuẩn</td>
+                                        <td style=" border: 1px dotted #CBCBCB; padding: 5px;font-weight:bold; width:60%">CE, RoHS</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <div style="width:100%; float:left; padding:8px 0px 0px 5px">
+                                <img style="vertical-align: middle;" src="https://www.thegioidien.com/fckupload/image/tc_sd.png" alt="" />     
+                                <span style="padding-left:5px;">Xuất xứ:</span>&nbsp;
+                                <font color="#ff6600">
+                                    <b>Việt Nam</b>
+                                </font>
+                            </div>
+                            <div style="width:100%; float:left; padding:8px 0px 0px 5px">
+                                <img style="vertical-align: middle;" src="https://www.thegioidien.com/fckupload/image/tc_sd.png" alt="" />     
+                                <span style="padding-left:5px;">Chất lượng:</span>
+                                <span style="padding-left:5px;">Mới 100%, chưa sử dụng</span>
+                            </div>
+                            <div style="width:100%; float:left; padding:8px 0px 0px 5px">
+                                <img style="vertical-align: middle;" src="https://www.thegioidien.com/fckupload/image/tc_sd.png" alt="" />     
+                                <span style="padding-left:5px;">Chứng từ:</span>
+                                <span style="padding-left:5px;">H&oacute;a đơn VAT 10%</span>
+                            </div>
+                            <div style="width:100%; float:left; padding:8px 0px 0px 5px">
+                                <img style="vertical-align: middle;" width="19" height="17" src="https://www.thegioidien.com/fckupload/image/giamthem.png" alt="" />     
+                                <span style="padding-left:5px; font-weight:bold">Giảm th&ecirc;m chiết khấu cao khi mua số lượng lớn</span>
+                            </div>
+                            <div style="width:100%; float:left; padding:8px 0px 0px 5px">
+                                <img style="vertical-align: middle;" src="https://www.thegioidien.com/fckupload/image/tc_sd.png" alt="" />     
+                                <span style="padding-left:5px;">Giới thiệu sản phẩm:</span>
+                            </div>
+                            <div style="width:100%; float:left; padding:8px 0px 0px 5px">
+                                <div>
+                                    <div>MPE được kh&aacute;ch h&agrave;ng biết đến qua c&aacute;c sản phẩm chất lượng cao, mẫu m&atilde; hiện đại, phong ph&uacute; v&agrave; đa dạng như: đ&egrave;n LED, ống luồn d&acirc;y điện, c&ocirc;ng tắc &amp; ổ cắm, đ&egrave;n chiếu s&aacute;ng, thiết bị đ&oacute;ng cắt, tủ điện, ph&iacute;ch &amp; ổ cắm c&ocirc;ng nghiệp... Với vai tr&ograve; l&agrave; nh&agrave; sản xuất thiết bị điện h&agrave;ng đầu Việt Nam, MPE đ&atilde; kh&ocirc;ng ngừng nghi&ecirc;n cứu v&agrave; ph&aacute;t triển để đa dạng h&oacute;a sản phẩm, mang đến cho người ti&ecirc;u d&ugrave;ng những sản phẩm chất lượng cao v&agrave; gi&aacute; th&agrave;nh hợp l&yacute;.</div>
+                                    <div>&nbsp;</div>
+                                    <div>Tất cả c&aacute;c sản phẩm mang thương hiệu MPE được kiểm tra chặt chẽ bởi hệ thống quản l&yacute; chất lượng ti&ecirc;n tiến ISO 9001-2008, với thế mạnh c&aacute;c d&acirc;y chuyền sản xuất hiện đại nhất của Ch&acirc;u &Acirc;u, sản phẩm MPE đ&atilde; v&agrave; đang tạo niềm tin nơi c&aacute;c kỹ sư, c&aacute;c nh&agrave; tư vấn thiết kế, nh&agrave; thầu v&agrave; người sử dụng trong suốt thời gian qua.</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+ // Luc cao can bo sung 1 the </div> cuoi cung       

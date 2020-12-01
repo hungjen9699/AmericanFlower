@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xsd:schema version="1.0"
+            xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://xml.netbeans.org/schema/bulbs"
+            xmlns="http://xml.netbeans.org/schema/bulbs"
+            elementFormDefault="qualified">
+    <xsd:element name="bulb" type="Bulb"/>
+    <xsd:complexType name="Bulb">
+        <xsd:sequence>
+            <xsd:element name="bulbID" type="xsd:int"/>
+            <xsd:element name="bulbName" type="xsd:string"/>
+            <xsd:element name="imgLink" type="xsd:string"/>
+            <xsd:element name="link" type="xsd:string"/>
+            <xsd:element name="wattage" type="xsd:int"/>
+            <xsd:element name="luminious" type="xsd:int"/>
+            <xsd:element name="price" type="xsd:int"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:schema>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<flower>
+    <flowerID>6</flowerID>
+    <flowerName>Zinnia- Salmon Queen</flowerName>
+    <imgLink>https://www.theseedcollection.com.au/assets/full/F7-01.jpg?20200707030552</imgLink>
+    <season>Spring to summer</season>
+    <germination>10</germination>
+    <maturity>90</maturity>
+    <temparature>29.0</temparature>
+    <link>https://www.theseedcollection.com.au/zinnia-salmon-queen</link>
+    <flowerCategory>
+        <flowerCategoryID>1</flowerCategoryID>
+        <flowerCategoryName>Zinnia</flowerCategoryName>
+        <link>https://www.theseedcollection.com.au/flower/zinnia</link>
+    </flowerCategory>
+</flower>
